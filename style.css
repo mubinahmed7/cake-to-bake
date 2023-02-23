@@ -1,0 +1,23 @@
+.container{
+    margin-bottom: 100px;
+}
+.carosol-bg {
+    background-color: #fceae8;
+    border-radius: 14px;
+    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100% );
+    color: #FFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
