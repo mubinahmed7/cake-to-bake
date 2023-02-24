@@ -21,3 +21,36 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.flover1{
+    padding: 10px 45% ;
+    color: #FF136F;
+    font-family: 'Times New Roman', Times, serif; 
+}
+.cat1{
+  background-color: chocolate;
+  padding: 8px 15px;
+  border-radius: 10px;
+}
+.cat2{
+    background-color: violet;
+    padding: 8px 30px;
+  border-radius: 10px;
+}
+.cat3{
+    background-color: orangered;
+    padding: 8px 22px;
+  border-radius: 10px;
+}
+.cat4{
+    background-color: orange;
+    padding: 8px 25px;
+  border-radius: 10px;
+}
+.catagories h2{
+    color: #fceae8;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
