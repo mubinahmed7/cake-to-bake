@@ -54,70 +54,19 @@
     box-shadow: 5px 5px 10px lightgray;
     
 }
-
-
-
-
-.about {
-    padding: 80px 0;
-  }
-  
-  .about h2 {
-    font-size: 36px;
-    margin-bottom: 30px;
-  }
-  
-  .about p {
-    font-size: 16px;
-    line-height: 24px;
-    margin-bottom: 20px;
-  }
-  
-  .about ul.contact-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .about ul.contact-list li {
-    font-size: 18px;
-    margin-bottom: 10px;
-    line-height: 1.5;
-  }
-  
-  .about ul.contact-list li i {
-    font-size: 24px;
-    margin-right: 10px;
-    color: #4267B2;
-  }
-  
-  .about ul.contact-list li a {
-    color: #4267B2;
-    text-decoration: none;
-  }
-  
-  .about ul.contact-list li a:hover {
-    text-decoration: underline;
-  }
-  
-  .about img {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    border-radius: 20px;
-  }
-  
-  @media (max-width: 767px) {
-    .about {
-      text-align: center;
-    }
-    
-    .about img {
-      max-width: 100%;
-    }
-    
-    .about .col-md-6 {
-      margin-bottom: 30px;
-    }
-  }
-  
+.Footer-bg{
+  background-color: #fceae8;
+  border-radius: 14px;
+}
+#Contact{
+  height: 300px;
+  box-shadow: 5px 5px 10px #FF589B
+}
+.Footer-bg h3{
+  color:crimson;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Footer-bg h6{
+  color: #FF136F;
+  font-family: 'Times New Roman', Times, serif;
+}
